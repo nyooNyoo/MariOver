@@ -257,6 +257,7 @@ ClearConditions = {
 	2035052211: "Reach the goal after defeating at least/all (n) Lakitu(s).",
 	2038503215: "Reach the goal after defeating at least/all (n) Lemmy(s).",
 	2048033177: "Reach the goal after defeating at least/all (n) Lava Bubble(s).",
+	2060448919: "Reach the goal without using any Swinging Claws.",
 	2076496776: "Reach the goal while wearing a Bullet Bill Mask.",
 	2089161429: "Reach the goal as Big Mario.",
 	2111528319: "Reach the goal as Cat Mario.",
